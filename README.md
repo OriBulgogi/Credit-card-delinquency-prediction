@@ -1,6 +1,6 @@
 # Credit-card-delinquency-prediction
-DACON 신용카드 사용자 연체 예측 AI 경진대회 ( model : stacking ensemble )
-대회링크 : https://dacon.io/competitions/official/235713/overview/description
+DACON 신용카드 사용자 연체 예측 AI 경진대회 ( model : stacking ensemble )  
+대회링크 : https://dacon.io/competitions/official/235713/overview/description  
 대회의 정의와 데이터 각각의 설명은 해당 링크로 확인 
 
 #### 소스 목차
@@ -45,5 +45,4 @@ DACON 신용카드 사용자 연체 예측 AI 경진대회 ( model : stacking en
 > https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
 > https://www.koreascience.or.kr/article/JAKO201206735658112.pdf
 > https://dacon.io/competitions/official/235713/codeshare/2594?page=3&dtype=recent
-> 
 
