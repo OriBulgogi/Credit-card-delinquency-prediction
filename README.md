@@ -16,7 +16,7 @@ DACON 신용카드 사용자 연체 예측 AI 경진대회 ( model : stacking en
   - target 인 Credit과 의존도 분석에서 차이를 보이는 feature를 발굴
     - 수입분류/ Credit
     - 가족구성형태/ Credit
-    - 
+    
    ![image](https://user-images.githubusercontent.com/81247213/147640908-c3bd083a-15f6-4417-b855-c05c53d7a5e3.png)
   
   - 직업 분류에 따른 credit
