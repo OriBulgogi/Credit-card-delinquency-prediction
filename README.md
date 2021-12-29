@@ -8,7 +8,7 @@ DACON 신용카드 사용자 연체 예측 AI 경진대회 ( model : stacking en
 
 ####  EDA
 소스코드에 EDA는 제외되어있습니다  
-fearture engineering, learning model, parameter tuning 의 설명은 주석에 포함
+fearture engineering, learning model, parameter tuning 의 설명은 주석과 실행시 출력문참조
 
   - child_NUM 의 극빈값의 이상치 제거
   ![image](https://user-images.githubusercontent.com/81247213/147640762-f443b0e6-8723-4489-b78c-ff5dde2b1651.png)
